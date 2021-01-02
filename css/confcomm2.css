@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.sec{width: 100%;height: 161%;border-top:1px solid transparent;margin-top: -3%;}
+
+.sec{background:url(bb.png);background-repeat: no-repeat;
+	background-position:0% -12%;background-size:300px;text-align: center; }
+section h2{text-align: center;margin-top:3%;text-transform: uppercase;
+	font-size:32px;color: #0D98BA;margin-bottom: -4%;}
+
+	
+.sec p{text-align:justify;margin-top:7%;line-height: 1.4em;
+	font-size:16.5px;color:#566573;margin-left: 5%;margin-right: 4%;padding-bottom: 2%;}
+.sec h3{font-size:15px;color:#0D98BA;margin-bottom:1%;margin-left: 6%;}    
+
+.m1{margin-top:28%;height:30px;padding-top: 4px;font-size: 1em;
+	background-color:rgba(0,0,0,0.6);color: white;text-transform: uppercase;
+	width: 98%;}
+.sec .dm{margin-top: 2%;}	
+
+.box{width: 100%;height:100%;padding-top:5%;
+	padding-left: 8%;text-align: center;}
+.b1{width: 47%;height: 28%;text-align: center;float: left;
+	margin-right:3%;margin-bottom:3%;
+	box-shadow: 0 20px 20px -10px rgb(231, 231, 231);
+	border:1px solid rgb(230, 230, 230);
+	background-color: white;}
+.b1 .p1{font-weight: bold;text-align: center;
+	font-size: 1.2em;margin-top: 8%;}	
+.b1 .p2{text-align: center;font-size: 1em;
+	color: #0D98BA;}
+.b1 .p3{text-align: center;font-size: 1em;margin-top: -2%;}
+.hr{width: 50%;margin:0px auto;}

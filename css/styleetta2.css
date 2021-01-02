@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.sec{width: 100%;height: 161%;border-top:1px solid transparent;}
+
+.sec{background:url(bb.png);background-repeat: no-repeat;
+	background-position:0% -12%;background-size:300px; }
+section h2{text-align: center;margin-top:9%;text-transform: uppercase;
+	font-size:32px;color: #0D98BA;padding-bottom: 8%;}
+
+	table {
+    font-family: 'Lato', sans-serif;
+    border-collapse: collapse;
+    width: 92%;
+    text-align: center;
+    margin-left: 4%;
+    box-shadow: 1px 1px 10px 4px #D5DBDB;
+    text-transform: uppercase; 
+}
+th{background-color: #48C9B0  ;color: white;}
+td, th {
+    border: 1px solid transparent;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.sec p{text-align: center;margin-top:7%;text-transform: capitalize;
+	font-size:16px;color: #0D98BA;}

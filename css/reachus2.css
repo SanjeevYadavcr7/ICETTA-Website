@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.sec{width: 100%;height: 161%;border-top:1px solid transparent;margin-top: -3%;}
+
+.sec{background:url(bb.png);background-repeat: no-repeat;
+	background-position:0% -12%;background-size:300px; }
+section h2{text-align: center;margin-top:9%;text-transform: uppercase;
+	font-size:23px;color: #0D98BA;margin-bottom: -4%;}
+
+	
+.sec p{text-align:justify;margin-top:7%;text-transform: capitalize;
+	font-size:16px;color:#566573;margin-left: 6%;margin-right: 4%;padding-bottom: 2%;}
+.sec h3{font-size:15px;color:#0D98BA;margin-bottom:1%;margin-left: 6%;}    
+
+ 
+ #map {margin:0px auto;
+        height: 58%;  /* The height is 400 pixels */
+        width: 88%;  /* The width is the width of the web page */
+       }   
